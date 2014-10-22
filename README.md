@@ -1,7 +1,7 @@
 hello-world
 ===========
 
-My first git project
+My first git project, yo Diggity!
 
 I'm now making my first ever commit!
 
